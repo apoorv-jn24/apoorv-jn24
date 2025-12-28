@@ -4,38 +4,27 @@
 ---
 
 ## 💫 About Me  
-I'm a Computer Science undergraduate passionate about **software development, web technologies, and machine learning**.  
-I love building responsive UIs, writing clean code, and solving algorithmic challenges.  
-Currently exploring **full-stack development**, preparing for placements, and working on projects that solve real-world problems.
+I’m a Computer Science undergraduate passionate about **software development**, **web technologies**, and **machine learning**.  
+I specialize in building responsive interfaces, writing clean and structured code, and solving algorithmic challenges.  
+Currently developing my skills in **full-stack development**, enhancing DSA proficiency, and contributing to real-world projects.
 
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/apoorv-jain24)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/apoorv_jain24)
-[![X](https://img.shields.io/badge/Twitter-black?style=flat&logo=X&logoColor=white)](https://x.com/Apoorv_jain24)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@ApoorvJainofficial)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:apoorvjainji@gmail.com)
+<p align="left">
+  <a href="https://linkedin.com/in/apoorv-jain24"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+  <a href="https://instagram.com/apoorv_jain24"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
+  <a href="https://x.com/Apoorv_jain24"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
+  <a href="mailto:apoorvjainji@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+  <a href="https://youtube.com/@ApoorvJainofficial"><img src="https://skillicons.dev/icons?i=youtube" width="45"/></a>
+</p>
 
 ---
 
 ## 💻 Tech Stack  
-**Languages**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-
-**Web Development**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-**Databases & Deployment**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,c,java" />
+</p>
 
 ---
 
@@ -43,30 +32,30 @@ Currently exploring **full-stack development**, preparing for placements, and wo
 
 ### 🔹 **TradeHub – Community Exchange Platform**  
 OLX-style platform for local item exchange.  
-**Role:** Documentation & workflow contributor  
+**Role:** Documentation + workflow contributor  
 **Tech:** React, Node.js, MongoDB  
-**Highlights:** User-flow diagrams, requirement docs, module explanations.
+**Highlights:** User-flow diagrams, requirement docs, module structure.
 
 ---
 
 ### 🔹 **Diabetes Prediction (ML)**  
-Machine-learning model to classify diabetes risk.  
+Machine-learning model for predicting diabetes risk.  
 **Tech:** Python, Scikit-Learn  
-**Highlights:** +25% accuracy, preprocessing, tuning.
+**Highlights:** +25% accuracy boost, clean preprocessing, hyperparameter tuning.
 
 ---
 
 ### 🔹 **Shopping Website**  
-Responsive shopping UI with an interactive cart.  
-**Tech:** HTML, CSS, JavaScript  
-**Highlights:** LocalStorage persistent cart, clean UI/UX.
+Responsive shopping UI with dynamic cart.  
+**Tech:** HTML, CSS, JS  
+**Highlights:** LocalStorage cart, clean UI/UX components.
 
 ---
 
 ### 🔹 **Personal Portfolio Website**  
-Responsive personal portfolio deployed on Vercel.  
+Showcase portfolio deployed on Vercel.  
 **Tech:** HTML, CSS, JS  
-**Highlights:** Smooth navigation, custom design, optimized layout.
+**Highlights:** Smooth navigation, optimized layout, modern design.
 
 ---
 
