@@ -89,28 +89,43 @@ Showcase portfolio deployed on Vercel.
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyushchauhan3554&show_icons=true&theme=tokyonight" alt="Piyush's GitHub Stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=apoorv-jn24&show_icons=true&theme=tokyonight" 
+    alt="Apoorv's GitHub Stats" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushchauhan3554&theme=tokyonight" alt="Piyush's GitHub Streak" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=apoorv-jn24&theme=tokyonight" 
+    alt="Apoorv's GitHub Streak" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushchauhan3554&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoorv-jn24&layout=compact&theme=tokyonight" 
+    alt="Top Languages" 
+  />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=piyushchauhan3554&theme=onedark&no-frame=true&row=1&column=6" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=apoorv-jn24&theme=onedark&no-frame=true&row=1&column=6" 
+  />
 </p>
 
 ---
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushchauhan3554&theme=react-dark" alt="GitHub Activity Graph" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=apoorv-jn24&theme=react-dark" 
+    alt="GitHub Activity Graph" 
+  />
 </p>
+
 
