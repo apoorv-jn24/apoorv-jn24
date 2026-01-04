@@ -85,3 +85,12 @@ Showcase portfolio deployed on Vercel.
     src="https://visitcount.itsvg.in/api?id=apoorv-jn24&icon=0&color=0" 
   />
 </p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apoorv-jn24&theme=dark" 
+    alt="Contribution Graph"
+  />
+</p>
