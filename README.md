@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Apoorv Jain</h1>
-<h3 align="center">Computer Science Student | Web Developer | ML Enthusiast</h3>
+<h3 align="center">Computer Science Student | Web Developer </h3>
 
 ---
 
