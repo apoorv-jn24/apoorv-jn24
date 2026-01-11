@@ -86,32 +86,6 @@ Showcase portfolio deployed on Vercel.
   />
 </p>
 
-
-### 📊 GitHub Stats
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=apoorv-jn24&show_icons=true&theme=tokyonight" 
-    alt="Apoorv's GitHub Stats" 
-  />
-</p>
-
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=apoorv-jn24&theme=tokyonight" 
-    alt="Apoorv's GitHub Streak" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoorv-jn24&layout=compact&theme=tokyonight" 
-    alt="Top Languages" 
-  />
-</p>
-
----
-
 ### 🏆 GitHub Trophies
 <p align="center">
   <img 
