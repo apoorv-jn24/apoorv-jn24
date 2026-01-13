@@ -2,6 +2,9 @@
 <h3 align="center">Computer Science Student | Web Developer </h3>
 
 ---
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=apoorv-jn24&label=Profile%20views&color=0e75b6&style=flat" alt="apoorv-jn24" />
+</p>
 
 
 ## 💫 About Me  
@@ -60,34 +63,16 @@ Showcase portfolio deployed on Vercel.
 
 ---
 
-## 📊 GitHub Stats
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=apoorv-jn24&theme=dark&hide_border=false&include_all_commits=true&count_private=true" 
-    height="150"
-  />
   <img 
     src="https://nirzak-streak-stats.vercel.app/?user=apoorv-jn24&theme=dark&hide_border=false" 
     height="150"
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoorv-jn24&layout=compact&theme=dark&hide_border=false" 
-    height="150"
-  />
-</p>
-
 ---
-<p align="center">
-  <img 
-    src="https://visitcount.itsvg.in/api?id=apoorv-jn24&icon=0&color=0" 
-  />
-</p>
-
-<h3 align="center">📊 Statistics</h3>
 
 <div align="center">
   <a href="https://github.com/apoorv-jn24">
@@ -98,9 +83,6 @@ Showcase portfolio deployed on Vercel.
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apoorv-jn24&theme=2077" />
   </a>
 </div>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=apoorv-jn24&label=Profile%20views&color=0e75b6&style=flat" alt="apoorv-jn24" />
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
