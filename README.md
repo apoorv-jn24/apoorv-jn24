@@ -2,9 +2,6 @@
 <h3 align="center">Computer Science Student | Web Developer </h3>
 
 ---
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=apoorv-jn24&label=Profile%20views&color=0e75b6&style=flat" alt="apoorv-jn24" />
-</p>
 
 
 ## 💫 About Me  
@@ -101,7 +98,10 @@ Showcase portfolio deployed on Vercel.
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apoorv-jn24&theme=2077" />
   </a>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anji1026&label=Profile%20views&color=0e75b6&style=flat" alt="anji1026" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=apoorv-jn24&label=Profile%20views&color=0e75b6&style=flat" alt="apoorv-jn24" />
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
