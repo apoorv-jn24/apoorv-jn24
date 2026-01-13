@@ -2,6 +2,10 @@
 <h3 align="center">Computer Science Student | Web Developer </h3>
 
 ---
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=apoorv-jn24&label=Profile%20views&color=0e75b6&style=flat" alt="apoorv-jn24" />
+</p>
+
 
 ## 💫 About Me  
 I’m a Computer Science undergraduate passionate about **software development**, **web technologies**, and **machine learning**.  
@@ -86,12 +90,19 @@ Showcase portfolio deployed on Vercel.
   />
 </p>
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=apoorv-jn24&theme=onedark&no-frame=true&row=1&column=6" 
-  />
-</p>
+<h3 align="center">📊 Statistics</h3>
+
+<div align="center">
+  <a href="https://github.com/apoorv-jn24">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=apoorv-jn24&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apoorv-jn24&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apoorv-jn24&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=apoorv-jn24&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apoorv-jn24&theme=2077" />
+  </a>
+</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anji1026&label=Profile%20views&color=0e75b6&style=flat" alt="anji1026" /> </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
