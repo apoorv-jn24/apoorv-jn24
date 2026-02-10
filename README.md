@@ -73,10 +73,10 @@ Showcase portfolio deployed on Vercel.
 </p>
 
 ---
-<img 
+<!-- <img 
   src="https://streak-stats.demolab.com?user=apoorv-jn24&theme=dark"
   height="150"
-/>
+/> -->
 
 
 <div align="center">
