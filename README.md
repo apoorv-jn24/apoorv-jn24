@@ -26,7 +26,7 @@ Currently developing my skills in **full-stack development**, enhancing DSA prof
 ---
 
 ## 💻 Tech Stack  
-<p align="center">
+<p >
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,c,java" />
 </p>
 
