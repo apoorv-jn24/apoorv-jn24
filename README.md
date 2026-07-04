@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-I'm a **Computer Science graduate** (B.Tech, COER University — 8.72 GPA) from India, currently onboarding as a **Software Development Engineer at TCS**. I build production-grade software across the stack — Java-first, backend-heavy, with a genuine competitive programming foundation.
+I'm a **Computer Science graduate** (B.Tech, COER University — 8.72 GPA) from India. I build production-grade software across the stack — Java-first, backend-heavy, with a genuine competitive programming foundation.
 
 - 💼 Incoming **SDE @ TCS** — onboarding in progress
 - 🧩 **450+ LeetCode problems** solved, **4★ Java** on HackerRank
