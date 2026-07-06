@@ -16,10 +16,8 @@
 
 I'm a **Computer Science graduate** (B.Tech, COER University — 8.72 GPA) from India. I build production-grade software across the stack — Java-first, backend-heavy, with a genuine competitive programming foundation.
 
-- 💼 Incoming **SDE @ TCS** — onboarding in progress
 - 🧩 **450+ LeetCode problems** solved, **4★ Java** on HackerRank
 - 🛠️ Comfortable across **Java, Python, React, SQL**, and full-stack/backend systems
-- 🤖 Applied ML experience — fine-tuning transformer models (BERT) and building GenAI pipelines (Whisper + LLaMA)
 - 🌐 Portfolio: **[apoorvjainn.vercel.app](https://apoorvjainn.vercel.app/)**
 - 📫 Email: **apoorvjainji@gmail.com**
 
