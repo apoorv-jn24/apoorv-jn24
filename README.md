@@ -5,7 +5,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=apoorv-jn24&label=Profile%20Views&color=0e75b6&style=flat-square)
-![LeetCode](https://img.shields.io/badge/LeetCode-450%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-480%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/HackerRank-Java%204★-2EC866?style=flat-square&logo=hackerrank&logoColor=white)
 
 </div>
@@ -14,9 +14,9 @@
 
 ## 👋 About Me
 
-I'm a **Computer Science graduate** (B.Tech, COER University — 8.72 GPA) from India. I build production-grade software across the stack — Java-first, backend-heavy, with a genuine competitive programming foundation.
+I'm a **Computer Science graduate** (B.Tech, COER University — 8.71 GPA) from India. I build production-grade software across the stack — Java-first, backend-heavy, with a genuine competitive programming foundation.
 
-- 🧩 **450+ LeetCode problems** solved, **4★ Java** on HackerRank
+- 🧩 **480+ LeetCode problems** solved, **4★ Java** on HackerRank
 - 🛠️ Comfortable across **Java, Python, React, SQL**, and full-stack/backend systems
 - 🌐 Portfolio: **[apoorvjainn.vercel.app](https://apoorvjainn.vercel.app/)**
 - 📫 Email: **apoorvjainji@gmail.com**
@@ -96,17 +96,6 @@ I'm a **Computer Science graduate** (B.Tech, COER University — 8.72 GPA) from 
 | **Tech Stack** | Whisper (transcription), LLaMA via Groq API, Flask |
 | **Highlights** | End-to-end pipeline from raw video → transcript → LLM-backed Q&A interface |
 | **My Role** | Sole developer — architecture, implementation, and report |
-
----
-
-### 🔹 Fake News Detection — Fine-Tuned BERT
-> A transformer-based classifier for detecting misinformation in news content.
-
-| Detail | Info |
-|---|---|
-| **Tech Stack** | Python, BERT (Hugging Face), Pandas |
-| **Datasets** | LIAR + ISOT | 
-| **Highlights** | Fine-tuned pretrained BERT for binary fake/real classification |
 
 ---
 
